@@ -1,0 +1,17 @@
+{
+  "name": "ts_for_beginners_2021",
+  "version": "1.0.0",
+  "description": "Understanding Typescript Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Mira Eerikäinen",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+  }
+}
