@@ -1,4 +1,4 @@
-# react-typescript-project-manager
+# Project manager with draggable tasks (React & Typescript)
 React & TypeScript exercise based on Udemy course "Understanding TypeScript - 2021 Edition" by Maximilian Schwarzmüller.
 
 To see the app in action, clone this repository and run:
